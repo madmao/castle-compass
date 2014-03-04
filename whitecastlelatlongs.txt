@@ -1,0 +1,409 @@
+12709 S. Western Ave. Blue Island IL, 60406, 41.6623013, -87.6799986
+7155 W. Ogden Ave. Berwyn IL, 60402, 41.8239242, -87.8022281
+9501 S. Cicero Oak Lawn IL, 60453, 41.718161, -87.739651
+3132 N. Harlem Ave. Chicago IL, 60634, 41.9375139, -87.8068809
+10339 W. Grand Ave. Franklin Park IL, 60131, 41.9302374, -87.8836977
+3212 W. Addison St. Chicago IL, 60618, 41.946896, -87.708423
+7912 S. Pulaski Rd. Chicago IL, 60652, 41.7538244, -87.7221598
+5618 W. North Ave. Chicago IL, 60639, 41.90967, -87.766355
+4750 W. 63rd St. Chicago IL, 60629, 41.7787714, -87.7415454
+1550 E. 79th St. Chicago IL, 60619, 41.751494, -87.5869791
+7900 S. Harlem Bridgeview IL, 60455, 41.747802, -87.800318
+14700 S. Cicero Ave. Midlothian IL, 60445, 41.6248069, -87.737713
+1219 Lake St. Aurora IL, 60506, 41.78178, -88.31672
+6059 S. Lagrange Rd. Countryside IL, 60525, 41.779459, -87.867462
+306 W. North Ave. Villa Park IL, 60181, 41.9056209, -87.9871961
+701 W. 14th St. Chicago Heights IL, 60411, 41.5060804, -87.6694215
+15801 S. Harlem Ave. Orland Park IL, 60462, 41.603857, -87.793477
+18250 S. Halsted St. Homewood IL, 60430, 41.5583034, -87.6361733
+1551 River Oaks Dr. Calumet City IL, 60409, 41.6006, -87.5608759
+2555 W. 95th St. Evergreen Park IL, 60805, 41.720453, -87.6875
+120 S. Bolingbrook Dr. Bolingbrook IL, 60440, 41.698072, -88.067604
+1100 W. Golf Rd. Hoffman Estates IL, 60194, 42.0485176, -88.1071321
+11050 S. Halsted St. Chicago IL, 60628, 41.6924214, -87.6425721
+1803 W. Jefferson Ave. Joliet IL, 60435, 41.5228876, -88.1250539
+110 W. North Ave. Carol Stream IL, 60188, 41.903771, -88.121347
+1204 75th St. Downers Grove IL, 60516, 41.75266, -88.013439
+1400 W. 79th St. Chicago IL, 60620, 41.750716, -87.65889
+3205 S. Ashland Ave. Chicago IL, 60608, 41.835354, -87.665214
+9450 S. Jeffery Ave. Chicago IL, 60617, 41.7236337, -87.5753837
+6901 S. Western Ave. Chicago IL, 60636, 41.7682924, -87.6832709
+10301 S. Michigan Ave. Chicago IL, 60628, 41.7069775, -87.6198607
+2209 S. Cicero Ave. Cicero IL, 60804, 41.8502529, -87.743843
+5940 N. Ridge Ave. Chicago IL, 60660, 41.9898781, -87.6704798
+6290 Grand Ave. Gurnee IL, 60031, 42.3844976, -87.9571408
+2140 S. Wabash Ave. Chicago IL, 60616, 41.8530749, -87.625904
+3457 S. King Dr. Chicago IL, 60616, 41.8318947, -87.6169671
+15902 S. Kedzie Ave. Markham IL, 60426, 41.600477, -87.694985
+840 W. North Ave. Melrose Park IL, 60160, 41.907705, -87.844467
+1400 E. Sibley Blvd. Dolton IL, 60419, 41.623015, -87.581802
+2348-2354 W. Roosevelt Rd. Chicago IL, 60608, 41.8666079, -87.6857257
+1583 N. State Route 50 Bradley IL, 60915, 41.172747, -87.852132
+9550 W. 191st St. Mokena IL, 60448, 41.5431818, -87.8505696
+3901 W. Madison Chicago IL, 60624, 41.880471, -87.7234299
+1550-58 W. Garfield Blvd. Chicago IL, 60609, 41.7943322, -87.6641235
+4 E. Roosevelt Rd. Lombard IL, 60148, 41.860439, -88.01694
+7550 N. Harlem Ave. Chicago IL, 60631, 42.0182017, -87.8066334
+211 W. Roosevelt Rd. Maywood IL, 60153, 41.864669, -87.835531
+444 N. Rte. 59 Aurora IL, 60504, 41.7496438, -88.206109
+2110 Army Trail Rd. Addison IL, 60101, 41.933312, -88.043104
+2231 S.R. 59 Joliet IL, 60436, 41.5410219, -88.1995089
+12640 W. 143rd Homer Glen IL, 60491, 41.62964, -87.927192
+6646 S. Halstead Chicago IL, 60621, 41.77291, -87.644964
+10555 S. Harlem Ave Chicago Ridge IL, 60415, 41.69917, -87.7976694
+1265 W. Normantown Rd Romeoville IL, 60446, 41.651689, -88.123302
+241 N. Randall Rd. Lake-in-the-Hills IL, 60156, 42.178123, -88.3347469
+13429 South State Route 59 Plainfield IL, 60544, 41.5667542, -88.2004917
+3001 Belvidere Rd. Waukegan IL, 60085, 42.3489938, -87.8747464
+21049 Cicero Matteson IL, 60443, 41.5073879, -87.7323129
+3046 W. Route 60 Mundelein IL, 60060, 42.282631, -88.045824
+12156 S. Cicero Ave. Alsip IL, 60803, 41.671114, -87.73939
+1602 S. Sycamore Rd. DeKalb IL, 60115, 41.944952, -88.734553
+40 S. Western Ave. Carpentersville IL, 60115, 42.1069496, -88.2920325
+1158 E. Dundee Road Palatine IL, 60074, 42.1392138, -88.0160258
+2340 Rt. 34 Oswego IL, 60543, 41.7052142, -88.3047567
+10849 Lincoln Trail Fairview Hts. IL, 62208, 38.5929092, -89.9898032
+3 Eastport Plaza Dr. Collinsville IL, 62234, 38.6840933, -90.0108517
+766 Carlyle Rd. Belleville IL, 62221, 38.516951, -89.951462
+2998 Homer Adams Pkwy. Alton IL, 62002, 38.9145413, -90.1402083
+5820 Belleville Crossing St. Belleville IL, 62226, 38.5271393, -90.0351252
+1141 N. Green Mount Road Belleville IL, 62221, 38.5693389, -89.9296831
+401 E. Lincoln Highway New Lenox IL, 60451, 41.5123647, -87.9575328
+1141 North Green Mount Road Belleville IL, 62221, 38.5693389, -89.9296831
+1800 Oakton. Elk Grove Village IL, 60007, 42.0225102, -87.9583297
+1620 Camp Jackson Road Cahokia IL, 62206, 38.552967, -90.1656749
+4632 Calumet Ave. Hammond IN, 46327, 41.629169, -87.5094359
+6517 Calumet Ave. Hammond IN, 46324, 41.594999, -87.5089253
+1 E. 81st Ave. Merrillville IN, 46410, 41.470478, -87.335128
+440 West Ridge Rd. Griffith IN, 46319, 41.5511458, -87.4288324
+800 W. Lincoln Hwy. Schererville IN, 46375, 41.49115, -87.471504
+9600 Calumet Ave. Munster IN, 46321, 41.539074, -87.509809
+153 Morthland Dr. Valparaiso IN, 46383, 41.4586508, -87.0608942
+101 E. U.S. Hwy. 20 Michigan City IN, 46360, 41.6798929, -86.8932582
+3956 Guthrie East Chicago IN, 46312, 41.640837, -87.433611
+1304 Broadway Gary IN, 46407, 41.589791, -87.337425
+525 Indian Boundary Rd. Chesterton IN, 46304, 41.6168569, -87.0452403
+7996 East Ridge Rd. Hobart IN, 46342, 41.551106, -87.241182
+5801 National Rd. E. Richmond IN, 47374, 39.832424, -84.82264
+102 W. 16th St. Indianapolis IN, 46202, 39.78877, -86.1596409
+3229 S. East St. Indianapolis IN, 46227, 39.718393, -86.148546
+6901 Pendleton Pike Indianapolis IN, 46226, 39.8260689, -86.047315
+7630 Shelby St. Indianapolis IN, 46227, 39.655011, -86.139909
+5301 W. Washington Indianapolis IN, 46241, 39.7523259, -86.2505089
+5501 W. 38th St. Indianapolis IN, 46254, 39.823011, -86.2566219
+5440 E. 82nd St. Indianapolis IN, 46250, 39.9055755, -86.0763468
+3210 E. Washington Indianapolis IN, 46201, 39.7690709, -86.11048
+4520 S. Emerson Ave. Indianapolis IN, 46203, 39.701613, -86.083268
+5523 S. State Rd. 9 Anderson IN, 46013, 40.0273332, -85.7293696
+105 Sheek Rd. Greenwood IN, 46143, 39.614006, -86.076534
+5910 Crawfordsville Rd. Speedway IN, 46224, 39.798701, -86.264022
+15005 U.S. Hwy. 31 North Carmel IN, 46032, 40.0061694, -86.1270517
+2820 Kentucky Avenue Indianapolis IN, 46221, 39.724162, -86.218202
+120 N. Sam Ralston Rd. Lebanon IN, 46052, 40.0466644, -86.487598
+2283 N. State Street Greenfield IN, 46140, 39.818226, -85.769002
+1414 W. Thompson Rd. Indianapolis IN, 46217, 39.692918, -86.185567
+2368 E. 38th St. Indianapolis IN, 46218, 39.825627, -86.122438
+10705 E. U.S. Hwy. 36 Avon IN, 46168, 39.763216, -86.33243
+6070 Cambridge Way Plainfield IN, 46168, 39.675878, -86.370288
+1801 Markland Ave. Kokomo IN, 46901, 40.4762538, -86.1554963
+2165 Shelby St. Indianapolis IN, 46203, 39.737902, -86.139402
+4723 Meijer Ct. Lafayette IN, 47905, 40.4166, -86.816127
+16286 Clover Rd. Noblesville IN, 46060, 40.0303657, -85.9965131
+8740 Michigan Rd. Indianapolis IN, 46268, 39.913252, -86.225172
+960 N. Green St. Brownsburg IN, 46112, 39.85626, -86.393337
+10099 E. Washington St. Indianapolis IN, 46229, 39.7749188, -85.987936
+3233 W. Jacobs Dr. Bloomington IN, 47404, 28.7158356, -96.8750761
+55 W. South Indianapolis IN, 46225, 39.761126, -86.159683
+8801 W. Market Square Dr. Daleville IN, 47334, 40.1142685, -85.5660673
+8290 Windfall Ln. Camby IN, 46113, 39.642738, -86.332919
+630 Birk Rd. Martinsville IN, 46151, 39.418132, -86.40975
+10303 Pendleton Pike Indianapolis IN, 46236, 39.856403, -85.983996
+3175 SR 3 New Castle IN, 47362, 39.9007964, -85.3853478
+1129 N. Morton St. Franklin IN, 46131, 39.491845, -86.063684
+1701 E. Spring St. New Albany IN, 47150, 38.293151, -85.806994
+1608 E. 10th St. Jeffersonville IN, 47130, 38.2959585, -85.7262795
+4023 Hwy. 31 E. Clarksville IN, 47129, 38.3193092, -85.7527377
+2430 Landmark Ave. N.E. Corydon IN, 47112, 38.2374537, -86.1256292
+6840 Logan Dr. Suite J Evansville IN, 47715, 37.995436, -87.468169
+7921 Indianapolis Blvd. Hammond IN, 46324, 41.5801739, -87.4808795
+4340 S. US Hwy. 41 Terre Haute IN, 47802, 39.4156403, -87.4149028
+1970 E. Tipton St. Seymour IN, 47274, 38.957845, -85.8558337
+1830 Marketplace Boulevard Shelbyville IN, 46176, 39.5214373, -85.7769238
+1686 National Rd Columbus IN, 47201, 39.1821326, -85.8475275
+1157 Eads Parkway East Greendale IN, 47025, 39.1235092, -84.8473302
+1879 Indianapolis Blvd Whiting IN, 46394, 41.67963, -87.499216
+1 W. 5th St. Newport KY, 41071, 39.0916945, -84.4957278
+8101 U.S. 42 Florence KY, 41042, 38.9828024, -84.6448826
+1811 Monmouth St. Newport KY, 41071, 39.08047, -84.481043
+3150 Dixie Hwy. Erlanger KY, 41018, 39.020447, -84.593154
+596 3rd St. Covington KY, 41011, 39.087874, -84.519757
+169 Winning Colors Dr. Walton KY, 41094, 38.918335, -84.627474
+1742 Wildcat Blvd. Burlington KY, 41005, 39.019947, -84.689598
+125 Plaza Dr. Cold Spring KY, 41076, 39.0031864, -84.4250391
+482 Orphanage Rd. Ft. Wright KY, 41017, 39.032429, -84.537113
+105 E. Market St. Louisville KY, 40202, 38.255045, -85.751362
+793 Eastern Pkwy. Louisville KY, 40217, 38.2147035, -85.742934
+1922 S. 7th St. Louisville KY, 40208, 38.2206929, -85.7765834
+3701 7th Street Rd. Louisville KY, 40216, 38.196314, -85.799544
+700 W. Broadway St. Louisville KY, 40202, 37.812938, -85.4776823
+3705 Bardstown Rd. Louisville KY, 40218, 38.199077, -85.659423
+7400 Dixie Hwy. Louisville KY, 40258, 38.143134, -85.8404
+307 E. New Circle Rd. Lexington KY, 40505, 38.059851, -84.4642
+179 E. Reynolds Rd. Lexington KY, 40517, 37.990378, -84.5196409
+448 Versailles Rd. Frankfort KY, 40601, 38.1943172, -84.8274022
+175 Keystone Crossroads Dr. Shepherdsville KY, 40165, 37.9928763, -85.707815
+2350 Greene Way Louisville KY, 40220, 38.212232, -85.596441
+2006 N. Mulberry St. Elizabethtown KY, 42701, 37.7147579, -85.8275727
+7200 Cedar Springs Blvd. Louisville KY, 40291, 38.14456, -85.585229
+4108 Outer Loop Louisville KY, 40219, 38.138, -85.685407
+5520 National Tpke. Louisville KY, 40214, 38.1512004, -85.7643634
+12413 Shelbyville Rd. Louisville KY, 40243, 38.24589, -85.524156
+23 Fairway Crossing Suite 2 Shelbyville KY, 40065, 38.1799325, -85.212814
+12006 Dixie Hwy. Louisville KY, 40272, 38.081235, -85.883168
+4641 Frederica St. Owensboro KY, 42301, 37.724721, -87.122779
+808 Eastern By-pass Richmond KY, 40475, 37.7315034, -84.2807026
+9493 Westport Rd. Louisville KY, 40241, 38.287219, -85.574563
+405 W. Hwy. 80 London KY, 40741, 37.1305726, -84.0774085
+25 Madison Dr. Somerset KY, 42501, 36.964757, -84.5974096
+3039 Scottsville Rd. Bowling Green KY, 42101, 36.943816, -86.4223286
+924 W. Main St. Glasgow KY, 42141, 37.0010151, -85.9246977
+2350 Greene Way Jeffersonville KY, 40220, 38.2568015, -85.7901784
+4020 Shelbyville Road Louisville KY, 40207, 38.252488, -85.65067
+2006 N. Mulberry St. Elizabethtown KY, 42701, 37.7147579, -85.8275727
+21400 Woodward Ave. Ferndale MI, 48220, 42.4495009, -83.1265302
+17431 Dix Rd. Melvindale MI, 48122, 42.282912, -83.170446
+20703 Gratiot Ave. Eastpointe MI, 48021, 42.450397, -82.9682179
+2115 Fort St. Lincoln Park MI, 48146, 42.248451, -83.177535
+28840 Dequindre Rd. Warren MI, 48092, 42.504412, -83.08503
+6301 W. Warren Ave. Detroit MI, 48210, 42.344265, -83.130958
+1930 Michigan Ave. Detroit MI, 48216, 42.331816, -83.072833
+16795 Fort St. Southgate MI, 48195, 42.185817, -83.188592
+41205 Ford Rd. Canton MI, 48187, 42.322421, -83.447522
+26900 Gratiot Ave. Roseville MI, 48066, 42.49358, -82.938051
+2930 John R Rd. Troy MI, 48083, 42.5622848, -83.1081476
+30105 Plymouth Rd. Livonia MI, 48150, 42.367196, -83.336809
+27760 23 Mile Rd. Chesterfield MI, 48051, 42.674023, -82.83008
+3953 Packard Rd. Ann Arbor MI, 48108, 42.2456746, -83.6813888
+13000 Telegraph Rd. Taylor MI, 48180, 42.211426, -83.270217
+31803 Van Dyke Ave. Warren MI, 48092, 42.526324, -83.029531
+2226 S. Telegraph Rd. Dearborn MI, 48124, 42.2949593, -83.2720083
+36850 Groesbeck Hwy. Clinton Twp. MI, 48035, 42.567819, -82.91244
+28130 W. 8 Mile Rd. Farmington Hills MI, 48336, 42.442293, -83.32355
+32925 Michigan Ave. Wayne MI, 48184, 42.282455, -83.363718
+23000 Telegraph Rd. Southfield MI, 48034, 42.4579442, -83.2779294
+20090 West Rd. Woodhaven MI, 48183, 42.141066, -83.22837
+24000 Schoolcraft Redford MI, 48239, 42.386201, -83.277032
+20409 James Couzens Fwy. Detroit MI, 48235, 42.442016, -83.200757
+8811 Greenfield Rd. Detroit MI, 48228, 42.358496, -83.197371
+6711 E. 8 Mile Rd. Warren MI, 48091, 42.448707, -83.033918
+15365 Wyoming Ave. Detroit MI, 48238, 42.4037076, -83.1599315
+6364 Woodward Ave. Detroit MI, 48202, 42.368314, -83.0716325
+335 Martin Luther King Blvd. Pontiac MI, 48342, 42.6473609, -83.271079
+10500 Gratiot Detroit MI, 48213, 42.4004321, -83.0004015
+2735 W. Davison Detroit MI, 48238, 42.3920688, -83.123905
+1520 N. Telegraph Rd. Monroe MI, 48162, 41.9419209, -83.4044869
+27325 Ford Rd. Dearborn Hts. MI, 48127, 42.325807, -83.310987
+3135 W. 13 Mile Rd. Royal Oak MI, 48073, 42.517531, -83.183176
+26500 Greenfield Rd. Oak Park MI, 48237, 42.485717, -83.201609
+2299 Elizabeth Lake Rd. Waterford MI, 48328, 42.639466, -83.332151
+17739 Grand River Ave. Detroit MI, 48227, 42.399962, -83.217157
+16737 Harper Ave Detroit MI, 48224, 42.4142132, -82.9400513
+22340 Ecorse Rd. Taylor MI, 48180, 42.256296, -83.253755
+4250 Corunna Rd. Flint MI, 48532, 43.0025819, -83.762647
+3832 E. Grand River Ave. Howell MI, 48843, 42.5877694, -83.8768602
+12245 23 Mile Rd. Utica MI, 48315, 42.67054, -83.00774
+20295 Hall Road Macomb MI, 48044, 42.629637, -82.919937
+3600 E. Lake St. Minneapolis MN, 55406, 44.948718, -93.220015
+505 Rice St. St. Paul MN, 55103, 44.9563695, -93.106314
+9600 Lyndale Ave. S. Bloomington MN, 55420, 44.829502, -93.289311
+7741 Zane Ave. N. Brooklyn Park MN, 55443, 45.0954814, -93.3563435
+1601 White Bear Ave. N. St. Paul MN, 55106, 44.9898368, -93.0255996
+4515 S. Robert Trail Inver Grove Hgts. MN, 55077, 44.8832489, -93.080598
+100 W. Lake St. Minneapolis MN, 55408, 44.9486429, -93.2801999
+5055 Central Ave. N.E. Columbia Hgts. MN, 55421, 45.0604504, -93.2469624
+1111 Cambridge St. Hopkins MN, 55343, 44.9348862, -93.3870518
+608 Central Ave. N.E. Minneapolis MN, 55414, 44.990032, -93.25154
+1120 University Ave. W. St. Paul MN, 55104, 44.955464, -93.1471052
+329 Fire Monument Rd. Hinckley MN, 55037, 46.0111204, -92.9338327
+9330 Baltimore St. N.E. Blaine MN, 55449, 45.140855, -93.234215
+919 W. Broadway Ave. Forest Lake MN, 55025, 45.279838, -92.9952239
+3465 124th Ave. N.W. Coon Rapids MN, 55433, 45.197045, -93.3536419
+8011 Old Carriage Ct. N. Shakopee MN, 55379, 44.777036, -93.416485
+15101 Cedar Ave Apple Valley MN, 55124, 44.730702, -93.218484
+3240 W. Division St. St. Cloud MN, 56301, 45.5531796, -94.1975583
+5950 Nova Scotia Ave. N Oak Park Hts. MN, 55082, 45.0338827, -92.8266279
+9480 Dunkirk Lane North Maple Grove MN, 55311, 45.1257682, -93.491134
+4525 S. Kingshighway Blvd. St. Louis MO, 63109, 38.587224, -90.2764409
+1441 N. Kingshighway Blvd. St. Louis MO, 63113, 38.662615, -90.26208
+3524 N. Kingshighway Blvd. St. Louis MO, 63115, 38.6758895, -90.2519927
+1002 S. Vandeventer St. Louis MO, 63110, 38.627887, -90.247587
+9301 Natural Bridge Rd. Berkeley MO, 63134, 38.722961, -90.336035
+2009 Hebert St. St. Louis MO, 63107, 38.6551911, -90.2020937
+7485 Manchester Rd. Maplewood MO, 63143, 38.612733, -90.322611
+3601 Gravois Ave. St. Louis MO, 63116, 38.592629, -90.2442559
+5615 S. Lindbergh Blvd. St. Louis MO, 63123, 38.523115, -90.354256
+11120 New Halls Ferry Florissant MO, 63033, 38.774036, -90.2702
+840 N. Hwy. 67 Florissant MO, 63031, 38.7999814, -90.3340469
+13600 Manchester Rd. St. Louis MO, 63131, 38.596228, -90.47438
+4201 Veteran's Memorial Pkwy. St. Peters MO, 63376, 38.795823, -90.576751
+2000 S. Old Hwy. 94 St. Charles MO, 63303, 38.7615089, -90.530989
+1789 Bowles Ave. Fenton MO, 63026, 38.54092, -90.474256
+4395 Lemay Ferry Rd. St. Louis MO, 63129, 38.501879, -90.332503
+1000 Veterans Blvd. Festus MO, 63028, 38.2134444, -90.4018357
+12025 Dorsett Rd. Maryland Hgts. MO, 63043, 38.7148266, -90.4384231
+806 S. Broadway St. St. Louis MO, 63102, 38.618289, -90.192523
+1905 Richardson Rd. Arnold MO, 63010, 38.410777, -90.382855
+78 Hilltop Village Dr. Eureka MO, 63025, 38.505011, -90.64078
+2212 Hwy. K O' Fallon MO, 63366, 38.777689, -90.699223
+7380 Olive Blvd. University City MO, 63130, 38.67094, -90.3291239
+680 W. Karsch Blvd. Farmington MO, 63640, 37.7895868, -90.4307184
+1224 Kirkwood Rd. Kirkwood MO, 63122, 38.561618, -90.405385
+10720 Bellefontaine Rd. Bellefontaine Neighbors MO, 63137, 38.7670876, -90.2208455
+7945 Watson Rd St. Louis MO, 63119, 38.568784, -90.339297
+310 Emerson Rd. High Ridge MO, 63049, 38.484194, -90.504689
+1983 Wentzville Pkwy. Wentzville MO, 63385, 38.8160278, -90.8770209
+102 Siemers Dr. Cape Girardeau MO, 63701, 37.3023721, -89.5821687
+4800 Mid Rivers Mall Dr. Cottleville MO, 63376, 38.7553916, -90.6361421
+859 Robert Raymond Dr. Lake St. Louis MO, 63367, 38.770836, -90.78201
+3401 Clark Lane Columbia MO, 65202, 38.964389, -92.286867
+11979 Paul Mayer Ave Bridgeton MO, 63044, 38.7465811, -90.4219886
+13600 Manchester Rd. St. Louis MO, 63131, 38.596228, -90.47438
+307 Elizabeth Ave. Newark NJ, 07112, 40.7125151, -74.1942901
+600 Westfield Ave. Elizabeth NJ, 07208, 40.6656147, -74.2343104
+1341 Main Ave. Clifton NJ, 07011, 40.8809811, -74.145471
+9271 Kennedy Blvd. North Bergen NJ, 07047, 40.8100241, -74.0013498
+467 Central Ave. Orange NJ, 07050, 40.7679745, -74.2398621
+2995 Kennedy Blvd. Jersey City NJ, 07306, 40.7358303, -74.0633099
+987 U.S. Hwy. 9 South Amboy NJ, 08879, 40.4777415, -74.2906772
+8 LaFayette Rd. Metuchen NJ, 08840, 40.549171, -74.321738
+2458 Rte. 22 Union NJ, 07083, 40.6905258, -74.2885105
+37 State Rte. 17 Hasbrouck Hts. NJ, 07604, 40.8501716, -74.0756901
+247 Hwy. 35N Eatontown NJ, 07724, 40.2852809, -74.0503822
+366-68 U.S. Hwy. 22 Green Brook NJ, 08812, 40.5871983, -74.5076124
+5151 Stelton Rd. South Plainfield NJ, 07080, 40.5478365, -74.4285462
+132 Rte. 37 E. Toms River NJ, 08753, 39.9639, -74.1895909
+642-654 Broadway Newark NJ, 07104, 40.7725747, -74.1617619
+480 Lyons Ave. Irvington NJ, 07111, 40.7151886, -74.224482
+680 Somerset St. New Brunswick NJ, 08901, 40.4855247, -74.4713196
+220 Broadway Paterson NJ, 07501, 40.9187294, -74.1659081
+2001 Edgar Rd. Linden NJ, 07036, 40.646668, -74.2266269
+3810 Kennedy Blvd. Union City NJ, 07087, 40.7768171, -74.0288588
+310 Burgen Tpke. Little Ferry NJ, 07643, 40.8584123, -74.0357332
+2151 U.S. Hwy. 9 Howell NJ, 07731, 40.1801641, -74.2445943
+1113 U.S. Hwy. 46 Ledgewood NJ, 07852, 40.8790676, -74.6481916
+951-957 S. Orange Ave. East Orange NJ, 07018, 40.7463822, -74.2276014
+310 Mountain Avenue Hackettstown NJ, 07840, 40.836535, -74.823752
+1335-1341 South Ave. Plainfield NJ, 07062, 40.632805, -74.397053
+2077 Route 1 Rahway NJ, 07065, 40.6067746, -74.261312
+36 Rt.  9 N. Morganville NJ, 07751, 40.3592045, -74.3053494
+1306 Rt. 22 Phillipsburg NJ, 08865, 40.679256, -75.1451445
+645 Highway 18 East Brunswick NJ, 08816, 40.4313638, -74.3880877
+550 E. Fordham Rd. Bronx NY, 10458, 40.858843, -73.88655
+2701 Boston Rd. Bronx NY, 10467, 40.865554, -73.8624419
+213-17 Northern Blvd. Bayside NY, 11361, 40.7605092, -73.7698141
+490 Sunrise Hwy. Lynbrook L.I. NY, 11563, 40.6554521, -73.6735244
+88-08 Northern Blvd. Jackson Hts. NY, 11372, 40.755894, -73.879437
+19 Hempstead Tpke. West Hempstead NY, 11552, 40.704478, -73.638731
+89-03 57th Ave. Elmhurst NY, 11373, 40.7347506, -73.8730688
+846 Empire Blvd. Brooklyn NY, 11213, 40.663263, -73.932077
+43-02 Queens Blvd. Sunnyside NY, 11104, 40.743009, -73.921265
+3101 Atlantic Ave. Brooklyn NY, 11208, 40.679282, -73.881135
+1677 Bruckner Blvd. Bronx NY, 10472, 40.825183, -73.871131
+1831 Webster Ave. Bronx NY, 10457, 40.8461655, -73.9020823
+42-02 Fort Hamilton Pkwy. Brooklyn NY, 11219, 40.6430147, -73.9909942
+6207 Sunrise Hwy. Massapequa NY, 11758, 40.684015, -73.429143
+540 Walt Whitman Rd. Huntington Station NY, 11747, 40.810369, -73.408803
+2237 Jericho Tpke. Commack L.I. NY, 11725, 40.8428996, -73.2920759
+2201 Middle Country Rd. Centereach NY, 11720, 40.858925, -73.089143
+136 New York 59 Nanuet NY, 10954, 41.09932, -74.017413
+900 Pennsylvania Ave. Brooklyn NY, 11207, 40.65591, -73.889036
+781 Metropolitan Ave. Brooklyn NY, 11211, 40.7146577, -73.9431743
+3663 Boston Rd. Bronx NY, 10466, 40.880378, -73.841917
+531 Myrtle Ave. Brooklyn NY, 11205, 40.6940001, -73.9634876
+112-11 Springfield Blvd. Queens Village NY, 11429, 40.705207, -73.739475
+959 Atlantic Ave. Brooklyn NY, 11238, 40.6804162, -73.9604381
+257 S. Broadway Yonkers NY, 10705, 40.925045, -73.895948
+9808 Rockaway Blvd. Ozone Park NY, 11417, 40.679778, -73.840521
+175-28 Hillside Ave. Jamaica NY, 11432, 40.7091264, -73.7978201
+2900 E. Tremont Ave. Bronx NY, 10461, 40.8406194, -73.8420116
+931 Westchester Ave. Bronx NY, 10459, 40.8221086, -73.897464
+2221 Hylan Blvd. Staten Island NY, 10306, 40.576453, -74.104285
+2092-2094 7th Ave. New York NY, 10027, 40.8088256, -73.9485511
+351 E. 103rd St. Manhattan NY, 10029, 40.7879679, -73.9417662
+786 Suffolk Ave. Brentwood NY, 11717, 40.780956, -73.245903
+525 8th Ave. Manhattan NY, 10018, 40.753744, -73.9923526
+1545 Myrtle Ave. Brooklyn NY, 11237, 40.6995974, -73.9128746
+265 Broad Hollow Rd. Farmingdale NY, 11735, 40.71582, -73.426467
+1690 Deer Park Ave Deer Park NY, 11729, 40.753383, -73.326582
+2238 Forest Ave. Staten Island NY, 10303, 40.62646, -74.1641609
+8853 Reading Rd. Reading OH, 45215, 39.2221674, -84.4415486
+2650 Reading Rd. Cincinnati OH, 45206, 39.128571, -84.49873
+3201 Harrison Ave. Cincinnati OH, 45211, 39.153613, -84.603206
+3940 Ludlow Ave. Cincinnati OH, 45223, 39.1583625, -84.5390539
+5075 Montgomery Rd. Norwood OH, 45212, 39.1673077, -84.4536674
+9740 Colerain Ave. Colerain Twp. OH, 45251, 39.2484765, -84.596573
+11575 Springfield Pike Springdale OH, 45246, 39.2862427, -84.4858374
+3980 Hauck Rd. Sharonville OH, 45241, 39.2911747, -84.3949139
+9001 Fields Ertel Rd. Cincinnati OH, 45249, 39.292089, -84.312928
+864 Eastgate S. Dr. Cincinnati OH, 45245, 39.0940562, -84.2642629
+3030 Central Pkwy. Cincinnati OH, 45225, 39.1389616, -84.5325973
+3411 Warsaw Ave. Cincinnati OH, 45205, 39.109926, -84.566085
+923 North Bend Rd. Cincinnati OH, 45224, 39.2010409, -84.521299
+7400 Vine St. Cincinnati OH, 45216, 39.19699, -84.476848
+10910 New Haven Rd. Harrison OH, 45030, 39.25925, -84.800289
+6901 S. R. 123 Franklin OH, 45005, 39.5418707, -84.2917761
+5301 Delhi Rd Cincinnati OH, 45238, 39.093442, -84.618536
+7313-7319 Hamilton Ave. Mt. Healthy OH, 45231, 39.228008, -84.5487991
+4780 Roosevelt Blvd. Middletown OH, 45044, 39.4997848, -84.3438955
+3410 Highland Ave. Cincinnati OH, 45213, 39.170888, -84.421912
+1901 N. Bechtle Ave. Springfield OH, 45504, 39.95124, -83.8316229
+64 W. Mitchell Ave. Cincinnati OH, 45217, 39.1614372, -84.5067139
+5590 Dixie Hwy. Fairfield OH, 45014, 39.333099, -84.521789
+5201 Salem Bend Trotwood OH, 45426, 39.8212527, -84.2826571
+811 W. 8th St. Cincinnati OH, 45203, 39.103259, -84.529047
+6517 Harrison Ave. Cincinnati OH, 45247, 39.192938, -84.6595331
+5404 N. Bend Rd. Cincinnati OH, 45247, 39.1880949, -84.60151
+4010 Williams Dr. Cincinnati OH, 45255, 39.06938, -84.302649
+1073 S.R. 28 Milford OH, 45150, 39.193819, -84.238361
+851 High St. Hamilton OH, 45011, 39.3964268, -84.5519286
+8111 Highland Pointe Drive West Chester OH, 45069, 39.347891, -84.3942103
+3540 W. Broad St. Columbus OH, 43228, 39.9542364, -83.0951835
+1111 S. High St. Columbus OH, 43206, 39.939194, -82.996667
+965 N. High St. Columbus OH, 43201, 39.9821079, -83.005023
+1435 E. Dublin Granville Rd. Columbus OH, 43229, 40.086811, -82.978192
+1080 S. Hamilton Rd. Columbus OH, 43227, 39.95458, -82.876565
+4525 Kenny Rd. Columbus OH, 43220, 40.052461, -83.050641
+2925 S. Hamilton Rd. Columbus OH, 43232, 39.914489, -82.881337
+801 E. 5th Ave. Columbus OH, 43201, 39.9859201, -82.9833006
+1025 Alum Creek Dr. Columbus OH, 43209, 39.9469489, -82.945741
+1620 Stringtown Rd. Grove City OH, 43123, 39.879124, -83.04617
+904 Hebron Rd. Heath OH, 43056, 40.0268749, -82.445144
+1555 W. Broad St. Columbus OH, 43222, 39.9572095, -83.0413384
+1550 Hilliard-Rome Rd. Hilliard OH, 43026, 39.9832082, -83.1504678
+6791 E. Broad St. Columbus OH, 43213, 39.981191, -82.823005
+2125 Schorrway Dr. N.W. Lancaster OH, 43130, 39.735288, -82.626596
+24599 U.S. Hwy. 23 Circleville OH, 43113, 39.5725551, -82.9531739
+7120 St. Rte. 37-E Sunbury OH, 43074, 40.2333826, -82.8360412
+1617 Holt Rd. Columbus OH, 43228, 39.919274, -83.123336
+3615 S. High St. Columbus OH, 43207, 39.889099, -83.00025
+8787  Owenfield Dr. US 23 Powell OH, 43065, 40.1635519, -83.0203222
+3751 S. Hamilton Rd. Columbus OH, 43232, 39.9012099, -82.8819931
+1000 N. Bridge St. Chillicothe OH, 45601, 39.3556299, -82.9768146
+648 N. State St. Westerville OH, 43082, 40.1423834, -82.9267624
+5151 Pearl Rd. Cleveland OH, 44129, 41.419049, -81.726944
+3255 W. 117th St. Cleveland OH, 44111, 41.464149, -81.768509
+5095 Northfield Rd. Bedford Hts. OH, 44146, 41.421572, -81.52684
+13201 Superior Ave. East Cleveland OH, 44112, 41.523349, -81.59087
+2900 S.  Arlington Rd. Akron OH, 44312, 40.9925432, -81.4929004
+1090 Lydia Dr. Marysville OH, 43040, 40.238836, -83.347984
+614 Corwin Nixon Blvd. South Lebanon OH, 45065, 39.3779411, -84.2227308
+1280 MacArthur Road Whitehall PA, 18052, 40.623882, -75.482476
+5605 Charlotte Ave. Nashville TN, 37209, 36.1507373, -86.8553803
+2901 Nolensville Rd. Nashville TN, 37211, 36.0149631, -86.7053577
+2201 Dickerson Pike Nashville TN, 37207, 36.206213, -86.7680139
+1404 Broadway Nashville TN, 37203, 36.155983, -86.790282
+2206 Old Fort Pkwy. Murfreesboro TN, 37129, 35.847965, -86.430887
+3060 Wilma Rudolph Blvd. Clarksville TN, 37040, 36.594239, -87.288936
+5805 Old Hickory Blvd. Hermitage TN, 37076, 36.1694042, -86.6008874
+636 S. Cumberland St. Lebanon TN, 37087, 36.190396, -86.295993
+11730 75th St. Kenosha WI, 53142, 42.568017, -87.948443
