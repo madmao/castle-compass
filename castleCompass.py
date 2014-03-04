@@ -60,8 +60,11 @@ def angle_from_coordinate(lat1, long1, lat2, long2):
 
 def bearing_to_cardinal(input_bearing):
     cardinals = ['E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW', 'N', 'NNE', 'NE', 'ENE']
-    percentage_around = input_bearing/360
-    return cardinals[int(percentage_around*16)]
+    percentage_around = input_bearing/360 + 0.03125
+    if percentage_around > 1:
+        percentage_around -= 1.0
+    cardinal_index = int(percentage_around*len(cardinals))
+    return cardinals[cardinal_index]
 
 
 gps_lat = 38.854068
