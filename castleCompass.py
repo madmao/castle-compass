@@ -41,6 +41,29 @@ def distance_on_unit_sphere(lat1, long1, lat2, long2):
     # in your favorite set of units to get length.
     return arc
 
+
+def angle_from_coordinate(lat1, long1, lat2, long2):
+
+    longitudinal_distance = (long2 - long1)
+
+    y = math.sin(longitudinal_distance) * math.cos(lat2)
+    x = math.cos(lat1) * math.sin(lat2) - math.sin(lat1) * math.cos(lat2) * math.cos(longitudinal_distance)
+
+    bearing_result = math.atan2(y, x)
+
+    bearing_result = math.degrees(bearing_result)
+    bearing_result = (bearing_result + 360) % 360
+    bearing_result = 360 - bearing_result
+
+    return bearing_result
+
+
+def bearing_to_cardinal(input_bearing):
+    cardinals = ['E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW', 'N', 'NNE', 'NE', 'ENE']
+    percentage_around = input_bearing/360
+    return cardinals[int(percentage_around*16)]
+
+
 gps_lat = 38.854068
 gps_long = -104.806474
 nearest_castle = None
@@ -52,5 +75,7 @@ for castle in castles:
         nearest_castle = castle
         nearest_distance = distance
 
+bearing = angle_from_coordinate(gps_lat, gps_long, nearest_castle[0], nearest_castle[1])
+cardinal = bearing_to_cardinal(bearing)
 
-print("Nearest White Castle : " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles")
+print("Nearest White Castle : " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
