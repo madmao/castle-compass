@@ -59,7 +59,7 @@ def angle_from_coordinate(lat1, long1, lat2, long2):
 
 
 def bearing_to_cardinal(input_bearing):
-    cardinals = ['E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW', 'N', 'NNE', 'NE', 'ENE']
+    cardinals = ['E', 'ENE', 'NE', 'NNE', 'N', 'NNW', 'NW', 'WNW', 'W', 'WSW', 'SW', 'SSW', 'S', 'SSE', 'SE', 'ESE']
     percentage_around = input_bearing/360 + 0.03125
     if percentage_around > 1:
         percentage_around -= 1.0
