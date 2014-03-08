@@ -1,4 +1,5 @@
 import math
+from Adafruit_CharLCDPlate import Adafruit_CharLCDPlate
 
 castles = []
 
@@ -81,4 +82,8 @@ for castle in castles:
 bearing = angle_from_coordinate(gps_lat, gps_long, nearest_castle[0], nearest_castle[1])
 cardinal = bearing_to_cardinal(bearing)
 
-print("Nearest White Castle : " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
+print("Nearest White Castle: " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
+
+lcd = Adafruit_CharLCDPlate()
+lcd.clear()
+lcd.message("White Castle\n" + str(int(nearest_distance)) + " miles " + cardinal)
