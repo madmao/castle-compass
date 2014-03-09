@@ -5,7 +5,7 @@ import math
 
 class CastleDirectory:
 
-    CSV_DIR = './csv/'
+    CSV_DIR = '/home/pi/castlecompass/csv/'
 
     def __init__(self):
 

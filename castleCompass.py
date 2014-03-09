@@ -1,5 +1,6 @@
 import math
 from time import sleep
+import sys
 
 from Adafruit_CharLCDPlate import Adafruit_CharLCDPlate
 from CastleGPS import CastleGPS
@@ -48,10 +49,8 @@ test_bearings()
 
 try:
     lcd = Adafruit_CharLCDPlate()
-    lcd.clear()
-    lcd.message("CastleCompass!\nAcquiring GPS...")
-    pi_log('Started LCD...')
-
+    pi_log('   Castle\n     Compass')
+    sleep(2)
     pi_log('Starting GPS...')
     gps = CastleGPS()
     gps.start()
@@ -69,7 +68,7 @@ try:
             bearing = calculate_initial_compass_bearing((gps.current_latitude, gps.current_longitude,), (nearest_castle[0], nearest_castle[1],))
             cardinal = bearing_to_cardinal(bearing)
 
-            new_message = castles.current_csv_friendly_name() + "\n" + str(round(nearest_distance, 3)) + " Mi " + cardinal
+            new_message = castles.current_csv_friendly_name() + "\n" + str(round(nearest_distance, 4)) + " Mi " + cardinal
             if new_message != last_message:
 
                 print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
@@ -93,3 +92,7 @@ except KeyboardInterrupt:
 except Exception:
     sleep(1)
     pi_log("Exception!")
+    type, value, traceback = sys.exc_info()
+    pi_log(str(type))
+    pi_log(str(value.strerror))
+    print('Error opening %s: %s' % (value.filename, value.strerror))
