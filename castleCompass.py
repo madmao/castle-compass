@@ -33,20 +33,11 @@ def bearing_to_cardinal(input_bearing):
     cardinal_index = int(percentage_around * len(cardinals))
     return cardinals[cardinal_index]
 
-
-def castle_picker_ui(ada_lcd, castle_directory):
-    ada_lcd.clear()
-    ada_lcd.message("Pick castle:\n" + castle_directory.current_csv_friendly_name())
+def pi_log(msg):
+    print(msg)
+    lcd.clear()
+    lcd.message(msg)
     sleep(0.5)
-    while ada_lcd.buttonPressed(ada_lcd.SELECT) == 0:
-        if ada_lcd.buttonPressed(ada_lcd.UP) or ada_lcd.buttonPressed(ada_lcd.DOWN) or ada_lcd.buttonPressed(ada_lcd.LEFT) or ada_lcd.buttonPressed(ada_lcd.RIGHT):
-            castle_directory.select_next()
-            ada_lcd.clear()
-            ada_lcd.message("Pick castle:\n" + castle_directory.current_csv_friendly_name())
-            sleep(0.5)
-
-    print("Picked: " + castle_directory.current_csv)
-
 
 def test_bearings():
     bears = [0.0, 90, 180, 270, 359]
@@ -55,36 +46,50 @@ def test_bearings():
 
 test_bearings()
 
-# exit()
+try:
+    lcd = Adafruit_CharLCDPlate()
+    lcd.clear()
+    lcd.message("CastleCompass!\nAcquiring GPS...")
+    pi_log('Started LCD...')
 
-lcd = Adafruit_CharLCDPlate()
-lcd.clear()
-lcd.message("CastleCompass!\nAcquiring GPS...")
+    pi_log('Starting GPS...')
+    gps = CastleGPS()
+    gps.start()
+    pi_log('Started GPS')
 
-gps = CastleGPS()
-gps.start()
+    pi_log('Getting Castles...')
+    castles = CastleDirectory()
+    pi_log('Got Castles')
+    pi_log('Awaiting 3D\nGPS Fix...')
 
-castles = CastleDirectory()
+    last_message = ''
+    while True:
+        if gps.current_latitude is not None:
+            nearest_castle, nearest_distance = castles.find_nearest_castle(gps.current_latitude, gps.current_longitude)
+            bearing = calculate_initial_compass_bearing((gps.current_latitude, gps.current_longitude,), (nearest_castle[0], nearest_castle[1],))
+            cardinal = bearing_to_cardinal(bearing)
 
-last_message = ''
-while True:
-    if gps.current_latitude is not None:
-        nearest_castle, nearest_distance = castles.find_nearest_castle(gps.current_latitude, gps.current_longitude)
-        bearing = calculate_initial_compass_bearing((gps.current_latitude, gps.current_longitude,), (nearest_castle[0], nearest_castle[1],))
-        cardinal = bearing_to_cardinal(bearing)
+            new_message = castles.current_csv_friendly_name() + "\n" + str(round(nearest_distance, 3)) + " Mi " + cardinal
+            if new_message != last_message:
 
-        new_message = castles.current_csv_friendly_name() + "\n" + str(round(nearest_distance, 3)) + " Mi " + cardinal
-        if new_message != last_message:
+                print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
+                last_message = new_message
+                lcd.clear()
+                lcd.message(new_message)
 
-            print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
-            last_message = new_message
-            lcd.clear()
-            lcd.message(new_message)
+            if lcd.buttonPressed(lcd.SELECT):
+                castles.select_next()
+                sleep(0.1)
 
-        if lcd.buttonPressed(lcd.SELECT):
-            castle_picker_ui(lcd, castles)
+        else:
+            print('Acquiring 3D GPS Lock...')
 
-    else:
-        print('Acquiring 3D GPS Lock...')
-
-    sleep(0.2)
+        sleep(0.2)
+except IOError:
+    sleep(1)
+    pi_log("IOError Exception!")
+except KeyboardInterrupt:
+    pi_log("  Cheeseburger\n    Shutdown!")
+except Exception:
+    sleep(1)
+    pi_log("Exception!")
