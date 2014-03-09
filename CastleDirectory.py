@@ -1,4 +1,3 @@
-import glob
 import os
 import math
 
@@ -17,13 +16,24 @@ class CastleDirectory:
         self.choose_castle(self.csv_list[0])
 
     def get_csv_list(self):
+        print("CSVs Found:")
         self.csv_list = []
         for file_name in os.listdir('./'):
             if file_name.endswith(".csv"):
                 self.csv_list.append(file_name)
                 print file_name
 
+    def select_next(self):
+        current_index = self.csv_list.index(self.current_csv)
+        next_index = current_index+1
+        if next_index >= len(self.csv_list):
+            next_index = 0
+
+        next_csv = self.csv_list[next_index]
+        self.choose_castle(next_csv)
+
     def choose_castle(self, castle_name):
+        print("Castle Selected " + castle_name)
         self.current_csv = castle_name
         self.castle_array = []
         with open(self.current_csv) as f:

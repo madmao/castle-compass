@@ -19,6 +19,7 @@ def angle_from_coordinate(lat1, long1, lat2, long2):
 
     return bearing_result
 
+
 def bearing_to_cardinal(input_bearing):
     cardinals = ['E', 'ENE', 'NE', 'NNE', 'N', 'NNW', 'NW', 'WNW', 'W', 'WSW', 'SW', 'SSW', 'S', 'SSE', 'SE', 'ESE']
     percentage_around = input_bearing / 360 + 0.03125
@@ -27,16 +28,29 @@ def bearing_to_cardinal(input_bearing):
     cardinal_index = int(percentage_around * len(cardinals))
     return cardinals[cardinal_index]
 
+
+def castle_picker_ui(ada_lcd, castle_directory):
+    ada_lcd.clear()
+    ada_lcd.message("Pick castle:\n" + castle_directory.current_csv)
+    sleep(0.5)
+    while ada_lcd.buttonPressed(ada_lcd.SELECT) == 0:
+        if ada_lcd.buttonPressed(ada_lcd.UP) or ada_lcd.buttonPressed(ada_lcd.DOWN) or ada_lcd.buttonPressed(ada_lcd.LEFT) or ada_lcd.buttonPressed(ada_lcd.RIGHT):
+            castle_directory.select_next()
+            ada_lcd.clear()
+            ada_lcd.message("Pick castle:\n" + castle_directory.current_csv)
+            sleep(0.5)
+
+    print("Picked: " + castle_directory.current_csv)
+
+
 lcd = Adafruit_CharLCDPlate()
 lcd.clear()
-lcd.message("CastleCompass!")
+lcd.message("CastleCompass!\n Acquiring GPS...")
 
 gps = CastleGPS()
 gps.start()
 
 castles = CastleDirectory()
-
-print('ran past gps start')
 
 while True:
 
@@ -45,10 +59,15 @@ while True:
         bearing = angle_from_coordinate(gps.current_latitude, gps.current_longitude, nearest_castle[0], nearest_castle[1])
         cardinal = bearing_to_cardinal(bearing)
 
-        print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) + " miles to the " + cardinal)
+        print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) +
+              " miles to the " + cardinal)
         lcd.clear()
         lcd.message(castles.current_csv + "\n" + str(nearest_distance) + "M " + cardinal)
-    else:
-        print('No Gps Signal Yet...')
 
-    sleep(1)
+        if lcd.buttonPressed(lcd.SELECT):
+            castle_picker_ui(lcd, castles)
+
+    else:
+        print('Acquiring 3D GPS Lock...')
+
+    sleep(0.2)
