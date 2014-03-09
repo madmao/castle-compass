@@ -31,13 +31,13 @@ def bearing_to_cardinal(input_bearing):
 
 def castle_picker_ui(ada_lcd, castle_directory):
     ada_lcd.clear()
-    ada_lcd.message("Pick castle:\n" + castle_directory.current_csv)
+    ada_lcd.message("Pick castle:\n" + castle_directory.current_csv_friendly_name())
     sleep(0.5)
     while ada_lcd.buttonPressed(ada_lcd.SELECT) == 0:
         if ada_lcd.buttonPressed(ada_lcd.UP) or ada_lcd.buttonPressed(ada_lcd.DOWN) or ada_lcd.buttonPressed(ada_lcd.LEFT) or ada_lcd.buttonPressed(ada_lcd.RIGHT):
             castle_directory.select_next()
             ada_lcd.clear()
-            ada_lcd.message("Pick castle:\n" + castle_directory.current_csv)
+            ada_lcd.message("Pick castle:\n" + castle_directory.current_csv_friendly_name())
             sleep(0.5)
 
     print("Picked: " + castle_directory.current_csv)
@@ -62,7 +62,7 @@ while True:
         print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) +
               " miles to the " + cardinal)
         lcd.clear()
-        lcd.message(castles.current_csv + "\n" + str(nearest_distance) + "M " + cardinal)
+        lcd.message(castles.current_csv_friendly_name() + "\n" + str(nearest_distance) + "M " + cardinal)
 
         if lcd.buttonPressed(lcd.SELECT):
             castle_picker_ui(lcd, castles)

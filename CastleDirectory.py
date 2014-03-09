@@ -15,6 +15,9 @@ class CastleDirectory:
 
         self.choose_castle(self.csv_list[0])
 
+    def current_csv_friendly_name(self):
+        return self.current_csv.replace(".csv", '')
+
     def get_csv_list(self):
         print("CSVs Found:")
         self.csv_list = []
