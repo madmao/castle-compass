@@ -19,13 +19,16 @@ class CastleGPS(threading.Thread):
     def run(self):
         print("GPS Started")
         while True:
-            report = self.gps.next()
-            # print(report)
-            if report['class'] == 'TPV':
+            try:
+                report = self.gps.next()
+                # print(report)
+                if report['class'] == 'TPV':
 
-                self.current_latitude = report['lat']
-                self.current_longitude = report['lon']
-                self.current_speed = report['speed']
-                self.current_heading = report['track']  # not sure if right attr
+                    self.current_latitude = report['lat']
+                    self.current_longitude = report['lon']
+                    self.current_speed = report['speed']
+                    self.current_heading = report['track']  # not sure if right attr
 
-            sleep(1)
+                sleep(1)
+            except:
+                print('GPS exception!')
