@@ -52,8 +52,8 @@ gps.start()
 
 castles = CastleDirectory()
 
+last_message = ''
 while True:
-
     if gps.current_latitude is not None:
         nearest_castle, nearest_distance = castles.find_nearest_castle(gps.current_latitude, gps.current_longitude)
         bearing = angle_from_coordinate(gps.current_latitude, gps.current_longitude, nearest_castle[0], nearest_castle[1])
@@ -61,8 +61,13 @@ while True:
 
         print("Nearest " + castles.current_csv + ": " + str(nearest_castle) + ", " + str(int(nearest_distance)) +
               " miles to the " + cardinal)
-        lcd.clear()
-        lcd.message(castles.current_csv_friendly_name() + "\n" + str(nearest_distance) + "M " + cardinal)
+
+        new_message = castles.current_csv_friendly_name() + "\n" + str(nearest_distance) + "M " + cardinal
+        if new_message != last_message:
+            print('new message')
+            last_message = new_message
+            lcd.clear()
+            lcd.message(new_message)
 
         if lcd.buttonPressed(lcd.SELECT):
             castle_picker_ui(lcd, castles)
