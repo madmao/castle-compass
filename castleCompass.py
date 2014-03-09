@@ -59,7 +59,7 @@ test_bearings()
 
 lcd = Adafruit_CharLCDPlate()
 lcd.clear()
-lcd.message("CastleCompass!\n Acquiring GPS...")
+lcd.message("CastleCompass!\nAcquiring GPS...")
 
 gps = CastleGPS()
 gps.start()
@@ -71,7 +71,6 @@ while True:
     if gps.current_latitude is not None:
         nearest_castle, nearest_distance = castles.find_nearest_castle(gps.current_latitude, gps.current_longitude)
         bearing = calculate_initial_compass_bearing((gps.current_latitude, gps.current_longitude,), (nearest_castle[0], nearest_castle[1],))
-        print("bearing: " + str(bearing))
         cardinal = bearing_to_cardinal(bearing)
 
         new_message = castles.current_csv_friendly_name() + "\n" + str(round(nearest_distance, 3)) + " Mi " + cardinal

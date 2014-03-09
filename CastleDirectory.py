@@ -2,7 +2,11 @@ import os
 import math
 
 
+
 class CastleDirectory:
+
+    CSV_DIR = './csv/'
+
     def __init__(self):
 
         self.csv_list = None
@@ -21,7 +25,7 @@ class CastleDirectory:
     def get_csv_list(self):
         print("CSVs Found:")
         self.csv_list = []
-        for file_name in os.listdir('./'):
+        for file_name in os.listdir(self.CSV_DIR):
             if file_name.endswith(".csv"):
                 self.csv_list.append(file_name)
                 print file_name
@@ -39,7 +43,7 @@ class CastleDirectory:
         print("Castle Selected " + castle_name)
         self.current_csv = castle_name
         self.castle_array = []
-        with open(self.current_csv) as f:
+        with open(self.CSV_DIR + self.current_csv) as f:
             content = f.readlines()
             for line in content:
                 split_string = line.split(',')
