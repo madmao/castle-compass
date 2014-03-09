@@ -12,3 +12,8 @@ exec { "chmod +x /usr/bin/rpi-serial-console":
 package { 'python-smbus':
  ensure => installed,
 }
+
+notify { "Starting ye olde GPS Daemon": }
+exec { "/dev/ttyAMA0 -F /var/run/gpsd.sock":
+  user => root,
+}
